@@ -24,12 +24,11 @@ const (
 	ASTERISK = "*"
 	SLASH    = "/"
 
-	LT = "<"
-	GT = ">"
-
-	// Equality
+	// Comparisons
 	EQ     = "=="
 	NOT_EQ = "!="
+	LT     = "<"
+	GT     = ">"
 
 	// Delimiters
 	COMMA     = ","
